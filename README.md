@@ -33,3 +33,5 @@ Step 13: ./Freqency Calibrator will help you start your application.
 Step 14: You can play around with this app and see how it responds to all Slider.
 
 You can use this app to check your Ears Sesnitivity to Sound. It is operating between 20Hz to 20Khz. Using this you can understand your ears sensitivity.
+
+Also you can use the attached Video to understand the steps mentioned above.
